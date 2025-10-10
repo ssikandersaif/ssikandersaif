@@ -101,18 +101,6 @@ OSINT    : maltego | recon-ng | spiderfoot
 
 ![Visitors](https://komarev.com/ghpvc/?username=ssikandersaif\&color=00FF41\&style=for-the-badge)
 
-
-
-
-### ✅ Pro Tips
-
-* 🟩 Make daily commits → fills your activity grid.
-* 🧩 Keep your repos clean and professional (add screenshots + usage).
-* 🧠 Try to automate small tools — it shows skill and creativity.
-* 💀 Always stay curious, break safely, and learn endlessly.
-
----
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Mission+Active...;Tracking+Vulnerabilities...;Stay+Hidden,+Stay+Curious!+%F0%9F%94%90" alt="Final Typing Animation" />
 </p>
