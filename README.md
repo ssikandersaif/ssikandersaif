@@ -1,7 +1,3 @@
-````markdown
-<!-- 💀 MATRIX Hacker Style README for ssikandersaif -->
-<!-- Paste this into a repository named exactly: ssikandersaif -->
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00FF41&center=true&vCenter=true&width=880&lines=%3E+Booting+Matrix+System...;%3E+Loading+Cyber+Modules...;%3E+Access+Granted+%E2%9C%85;%3E+Welcome,+Agent+Saif!+%F0%9F%94%90" alt="Matrix Typing Animation" />
 </p>
