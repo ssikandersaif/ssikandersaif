@@ -46,40 +46,6 @@ Forensic : wireshark | tcpdump | binwalk | foremost
 OSINT    : maltego | recon-ng | spiderfoot
 ```
 
----
-
-### 🔐 Featured Operations
-
----
-
-### 📊 GitHub Intel
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ssikandersaif&show_icons=true&theme=chartreuse-dark&hide_border=true" alt="stats" />
-  &nbsp;
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ssikandersaif&theme=chartreuse-dark&hide_border=true" alt="streak" />
-</p>
-
----
-
-### 🏆 Cyber Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ssikandersaif&theme=matrix&margin-w=12&margin-h=12" alt="trophies" />
-</p>
-
----
-
-### 🕶️ Activity Radar
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ssikandersaif&bg_color=000000&color=00FF41&line=00FF41&point=FFFFFF&area=true&hide_border=true" alt="activity graph" />
-</p>
-
----
-
-
-
 ```bash
 > ./saif_status.sh
 [~] Initializing network scanners...
