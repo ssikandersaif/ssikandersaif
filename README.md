@@ -50,8 +50,8 @@ Forensics  : wireshark | tcpdump
 
 | Machine | Platform | Difficulty | Attack Chain |
 |--------|----------|------------|--------------|
-| [Reactor](Write-ups/HTB-Writeups/Reactor/reactor-writeup.md) | HackTheBox | Medium | CVE-2025-55182 RCE → SQLite creds → Node.js Inspector abuse → Root |
-| [Responder](Write-ups/HTB-Writeups/Responder/README.md) | HackTheBox | Easy | LFI → NTLM hash capture → Hash cracking |
+| [Reactor](ssikandersaif/Write-ups/HTB-Writeups/Reactor/reactor-writeup.md) | HackTheBox | Medium | CVE-2025-55182 RCE → SQLite creds → Node.js Inspector abuse → Root |
+| [Responder](ssikandersaif/Write-ups/HTB-Writeups/Responder/README.md) | HackTheBox | Easy | LFI → NTLM hash capture → Hash cracking |
 
 > More writeups added as machines get rooted.
 
@@ -60,7 +60,9 @@ Forensics  : wireshark | tcpdump
 ### > ./connect.sh
 
 <p align="center">
-  🔗 LinkedIn &nbsp;|&nbsp; 📝 GitHub Writeups &nbsp;|&nbsp; 🟥 HackTheBox Profile
+  <a href="https://www.linkedin.com/in/syed-saif-sikander/">🔗 LinkedIn</a> &nbsp;|&nbsp;
+  <a href="https://github.com/ssikandersaif/Write-ups">📝 GitHub</a> &nbsp;|&nbsp;
+  <a href="https://profile.hackthebox.com/profile/019d3009-6c7d-71df-9fe4-59b8c4debf77?utm_medium=copy_url">🟥 HackTheBox</a>
 </p>
 
 ---
