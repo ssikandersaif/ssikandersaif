@@ -50,8 +50,8 @@ Forensics  : wireshark | tcpdump
 
 | Machine | Platform | Difficulty | Attack Chain |
 |--------|----------|------------|--------------|
-| [Reactor](Write-ups/HTB-Writeups/Reactor/reactor-writeup.md) | HackTheBox | Medium | CVE-2025-55182 RCE → SQLite creds → Node.js Inspector abuse → Root |
-| [Responder](Write-ups/HTB-Writeups/Responder/README.md) | HackTheBox | Easy | LFI → NTLM hash capture → Hash cracking |
+| [Reactor] | HackTheBox | Medium | CVE-2025-55182 RCE → SQLite creds → Node.js Inspector abuse → Root |
+| [Responder] | HackTheBox | Easy | LFI → NTLM hash capture → Hash cracking |
 
 > More writeups added as machines get rooted.
 
