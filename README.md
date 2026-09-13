@@ -25,7 +25,7 @@ learning   : By breaking things in authorized lab environments
 ### > cat current_projects.txt
 
 - **ReconX** — AI-powered automated reconnaissance framework
-- **WebScan** — Custom web scanning tool built from scratch
+- **web-vuln-scanner** — Custom web scanning tool built from scratch
 - **HTB Writeups** — Documented attack chains on rooted machines
 
 ---
@@ -50,8 +50,8 @@ Forensics  : wireshark | tcpdump
 
 | Machine | Platform | Difficulty | Attack Chain |
 |--------|----------|------------|--------------|
-| [Reactor](HTB-Writeups/Reactor/reactor-writeup.md) | HackTheBox | Medium | CVE-2025-55182 RCE → SQLite creds → Node.js Inspector abuse → Root |
-| [Responder](HTB-Writeups/Responder/readme.md) | HackTheBox | Easy | LFI → NTLM hash capture → Hash cracking |
+| [Reactor](Write-ups/HTB-Writeups/Reactor/reactor-writeup.md) | HackTheBox | Medium | CVE-2025-55182 RCE → SQLite creds → Node.js Inspector abuse → Root |
+| [Responder](Write-ups/HTB-Writeups/Responder/README.md) | HackTheBox | Easy | LFI → NTLM hash capture → Hash cracking |
 
 > More writeups added as machines get rooted.
 
